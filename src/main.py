@@ -1,1 +1,3 @@
-print("Привет от Poetry!")
+
+
+print("Starting bot...")
